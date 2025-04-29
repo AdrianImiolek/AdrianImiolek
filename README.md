@@ -7,4 +7,4 @@
 - :tada: https://adrianimiolek.github.io/Willow-and-Oak/ - Minimalistic, one-page site for a small/local business. This website is a part of my ongoing learning journey as I deepen my knowledge of frontend development. :herb:
 </br>
 <h2>:email: Contact:</h2>
-I don't have my website <b>yet</b> but you can reach me at <a href="mailto:adrian.imiolek99@gmail.com">adrian.imiolek99@gmail.com</a> :mortar_board:
+I don't have my website <b>yet</b> but you can reach me <a href="mailto:adrian.imiolek99@gmail.com"> >> here << </a> :mortar_board:
