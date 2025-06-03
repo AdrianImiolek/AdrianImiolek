@@ -5,7 +5,7 @@
 <h2>:computer: Projects so far:</h2>
 - :tada: https://click2escape.com/ - Website made for my friend, she decided to develop point & click game. We both are fanatics of escape rooms, so it speaks for itself. :runner: </br></br >
 - :tada: https://adrianimiolek.github.io/Willow-and-Oak/ - Minimalistic, one-page site for a small/local business. This website is a part of my ongoing learning journey as I deepen my knowledge of frontend development. :herb:
-</br>
+</br></br>
 - :tada: https://adrianimiolek.github.io/Flowerist/ - Simple and minimalistic incremental game, it gave me deeper understanding of JavaScript and let me further improve it in project based learning 💮 </br>
 <h2>:email: Contact:</h2>
 I don't have my website <b>yet</b> but you can reach me <a href="mailto:adrian.imiolek99@gmail.com"> >> here << </a> :mortar_board:
