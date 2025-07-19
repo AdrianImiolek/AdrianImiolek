@@ -9,4 +9,4 @@
 </br></br>
 - :tada: https://adrianimiolek.github.io/Flowerist/ - Simple and minimalistic incremental game, it gave me deeper understanding of JavaScript and let me further improve it in project based learning 💮 </br>
 <h2>:email: Contact:</h2>
-You can reach me at: <a href="https://adek.dev/">LINK</a>
+You can reach me at: <a href="https://adek.dev/" target="_blank">LINK</a>
